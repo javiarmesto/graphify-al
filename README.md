@@ -1,3 +1,7 @@
+> **Fork context:** this repository is a fork of [ChristianHovenbitzer/graphify-al](https://github.com/ChristianHovenbitzer/graphify-al). The documentation below retains the original project's authorship. Use the parent repository for its published releases and support guidance; this audit does not establish a separate maintained distribution or promise synchronization.
+>
+> [Compare this fork with its parent](https://github.com/ChristianHovenbitzer/graphify-al/compare/al-support...javiarmesto:graphify-al:al-support). The comparison shows the current differences; fork-specific behavior must be assessed from those changes. Static documentation review: **6 October 2026**; no build, installation or service invocation performed.
+
 <!--
   AL FORK of safishamsi/graphify — adds Microsoft Dynamics 365 Business Central (AL)
   support. See AL_SUPPORT.md for what's added and how to use it. Upstream README follows.
